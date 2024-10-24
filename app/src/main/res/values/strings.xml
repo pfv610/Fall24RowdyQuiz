@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fall24 Rowdy Quiz</string>
+    <string name="trivia_question">Trivia Question Here!</string>
+    <string name="true_button">TRUE</string>
+    <string name="false_button">FALSE</string>
+    <string name="next_button">NEXT</string>
+    <string name="peek_button">PEEK</string>
+</resources>
